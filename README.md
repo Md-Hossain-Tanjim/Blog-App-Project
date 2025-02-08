@@ -1,4 +1,5 @@
-A simple Blog web application built with Django. This app allows users to create, edit, delete, and view blog posts.
+#A simple Blog web application built with Django. 
+This app allows users to create, edit, delete, and view blog posts.
 
 Features
 Create new blog posts
